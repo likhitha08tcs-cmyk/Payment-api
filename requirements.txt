@@ -1,1 +1,2 @@
 pytest
+# Add other dependencies here if needed
